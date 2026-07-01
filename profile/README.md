@@ -6,9 +6,9 @@
   <img alt="Amulets" src="./assets/logo-light.png" width="360">
 </picture>
 
-### Solana in your daily life
+### Crypto in your daily life
 
-**Amulets is a Solana-native neobank** — a mobile-first account where your everyday money lives on-chain. Hold, spend, trade, and grow your balance from a single app, with the speed and low cost of Solana under the hood and the simplicity of a modern bank on top.
+**Amulets is a multi-chain neobank** — a mobile-first account where your everyday money lives on-chain, across the networks you already use. Hold, spend, trade, and grow your balance from a single app, with the speed and low cost of modern blockchains under the hood and the simplicity of a modern bank on top.
 
 <!-- TODO: point these at the real destinations before publishing -->
 [Website](https://amulets.app) ·
@@ -22,24 +22,38 @@
 
 ## What is Amulets?
 
-Amulets brings the everyday banking experience — an account, a card, payments, rewards — to the Solana blockchain. Instead of hiding crypto behind a separate wallet app, Amulets makes it the foundation of a familiar, easy-to-use financial product: you open an account, get verified, and start moving money in minutes.
+Amulets brings the everyday banking experience — an account, a card, payments, rewards — to the world's leading blockchains. Instead of hiding crypto behind a separate wallet app, Amulets makes it the foundation of a familiar, easy-to-use financial product: you open an account, get verified, and start moving money in minutes.
 
-It's built for people who want the upside of on-chain finance without the friction — no seed-phrase gymnastics, no confusing DeFi dashboards. Just a clean app that happens to run on one of the fastest networks in the world.
+It's built for people who want the upside of on-chain finance without the friction — no seed-phrase gymnastics, no confusing DeFi dashboards. Just a clean app that works across multiple chains from day one.
 
 ## What you can do
 
 - **💳 Digital account** — Open a fully digital account in minutes with a guided, verified sign-up (KYC included).
-- **🪙 Hold your balance on Solana** — Your money lives on-chain, ready to move whenever you are.
+- **🪙 Hold your balance on-chain** — Your money lives across leading networks, ready to move whenever you are.
 - **📈 Buy, sell & trade** — Swap and trade assets right from the app with live pricing and instant quotes.
-- **💸 Deposit & withdraw** — Move funds in and out on Solana, with transactions tracked and confirmed end-to-end.
+- **💸 Deposit & withdraw** — Move funds in and out across supported networks, tracked and confirmed end-to-end.
 - **🛒 Spend with the Amulets Card** — Pay for everyday purchases, backed by your Amulets balance. *(rolling out)*
 - **🎁 Rewards & referrals** — Earn as you use Amulets and invite friends to join.
+
+## Supported networks
+
+Amulets is multi-chain today, with more on the way:
+
+| Network    | Status          |
+| ---------- | --------------- |
+| Solana     | ✅ Live          |
+| Ethereum   | ✅ Live          |
+| Polygon    | ✅ Live          |
+| BNB Chain  | ✅ Live          |
+| Base       | ✅ Live          |
+| Stellar    | 🔜 Coming soon  |
 
 ## Why Amulets
 
 - **Everyday, on-chain.** The convenience of a neobank with the transparency and reach of public blockchain rails.
+- **Multi-chain by default.** One account that spans Solana, Ethereum, Polygon, BNB Chain, and Base — with Stellar on the way.
 - **Mobile-first.** Designed for your phone first — available on iOS, Android, Web, and Windows.
-- **Fast and low-cost.** Built on Solana, so payments and transfers settle in seconds for fractions of a cent.
+- **Fast and low-cost.** Built on high-performance networks, so payments and transfers settle quickly for a fraction of the cost.
 - **Simple by design.** The complexity stays behind the scenes; you just see your money and what you can do with it.
 
 ## Availability
@@ -51,7 +65,7 @@ Amulets runs on **iOS, Android, Web, and Windows** from a single, shared experie
 
 ## About amuletslabs
 
-This is the home of **amuletslabs**, the team building Amulets. We're crafting the platform that powers the account, the card, trading, deposits, rewards, and everything in between — so that using money on Solana feels as natural as any app on your phone.
+This is the home of **amuletslabs**, the team building Amulets. We're crafting the platform that powers the account, the card, trading, deposits, rewards, and everything in between — so that using money on-chain feels as natural as any app on your phone.
 
 Interested in what we're building or want to join us? Reach out at **[hello@amulets.app](mailto:hello@amulets.app)**.
 
@@ -59,7 +73,7 @@ Interested in what we're building or want to join us? Reach out at **[hello@amul
 
 <div align="center">
 
-<sub>© Amulets · Solana in your daily life</sub>
+<sub>© Amulets · Crypto in your daily life</sub>
 
 <!--
   Legal & regulatory notes go here before this page is treated as an official public statement.
