@@ -6,9 +6,11 @@
   <img alt="Amulets" src="./assets/logo-light.png" width="360">
 </picture>
 
-### Crypto in your daily life
+# Amulets: Crypto Card & Wallet
 
-**Amulets is a multi-chain neobank** — a mobile-first account where your everyday money lives on-chain, across the networks you already use. Hold, spend, trade, and grow your balance from a single app, with the speed and low cost of modern blockchains under the hood and the simplicity of a modern bank on top.
+### Your digital assets. One app.
+
+**Send, receive and use digital assets while earning cryptoback.**
 
 <!-- TODO: point these at the real destinations before publishing -->
 [Website](https://amulets.app) ·
@@ -22,50 +24,50 @@
 
 ## What is Amulets?
 
-Amulets brings the everyday banking experience — an account, a card, payments, rewards — to the world's leading blockchains. Instead of hiding crypto behind a separate wallet app, Amulets makes it the foundation of a familiar, easy-to-use financial product: you open an account, get verified, and start moving money in minutes.
+Manage supported assets including USDT, USDC, BTC, SOL, ETH and BNB in a single experience designed for everyday use. Create your virtual card in seconds, send and receive funds across supported networks, track your activity in real time, and access rewards on eligible purchases.
 
-It's built for people who want the upside of on-chain finance without the friction — no seed-phrase gymnastics, no confusing DeFi dashboards. Just a clean app that works across multiple chains from day one.
+Built for people who want a simpler way to manage digital assets, payments and rewards in one place.
 
-## What you can do
+## Why Amulets?
 
-- **💳 Digital account** — Open a fully digital account in minutes with a guided, verified sign-up (KYC included).
-- **🪙 Hold your balance on-chain** — Your money lives across leading networks, ready to move whenever you are.
-- **📈 Buy, sell & trade** — Swap and trade assets right from the app with live pricing and instant quotes.
-- **💸 Deposit & withdraw** — Move funds in and out across supported networks, tracked and confirmed end-to-end.
-- **🛒 Spend with the Amulets Card** — Pay for everyday purchases, backed by your Amulets balance. *(rolling out)*
-- **🎁 Rewards & referrals** — Earn as you use Amulets and invite friends to join.
+- **Earn up to 5% cryptoback** on eligible purchases
+- **Create your virtual card in seconds**
+- **Add your card to Apple Wallet and Google Wallet**
+- **Send and receive** USDT, USDC, BTC, SOL, ETH and BNB
+- **Manage everything in one intuitive app**
+- **Accepted at 150M+ merchants**
+
+## Supported assets
+
+- USDT
+- USDC
+- Bitcoin (BTC)
+- Solana (SOL)
+- Ethereum (ETH)
+- BNB
 
 ## Supported networks
 
-Amulets is multi-chain today, with more on the way:
-
-| Network    | Status          |
-| ---------- | --------------- |
-| Solana     | ✅ Live          |
-| Ethereum   | ✅ Live          |
-| Polygon    | ✅ Live          |
-| BNB Chain  | ✅ Live          |
-| Base       | ✅ Live          |
-| Stellar    | 🔜 Coming soon  |
-
-## Why Amulets
-
-- **Everyday, on-chain.** The convenience of a neobank with the transparency and reach of public blockchain rails.
-- **Multi-chain by default.** One account that spans Solana, Ethereum, Polygon, BNB Chain, and Base — with Stellar on the way.
-- **Mobile-first.** Designed for your phone first — available on iOS, Android, Web, and Windows.
-- **Fast and low-cost.** Built on high-performance networks, so payments and transfers settle quickly for a fraction of the cost.
-- **Simple by design.** The complexity stays behind the scenes; you just see your money and what you can do with it.
+| Network   | Status         |
+| --------- | -------------- |
+| Solana    | ✅ Live         |
+| Ethereum  | ✅ Live         |
+| Bitcoin   | ✅ Live         |
+| Base      | ✅ Live         |
+| BNB Chain | ✅ Live         |
+| Polygon   | ✅ Live         |
+| Stellar   | 🔜 Coming soon |
 
 ## Availability
 
-Amulets runs on **iOS, Android, Web, and Windows** from a single, shared experience.
+Amulets runs on **iOS, Android, Web, and Windows** from a single, shared experience — with your card ready for **Apple Wallet** and **Google Wallet**.
 
 <!-- TODO: update with the real launch status — e.g. "Now in private beta — join the waitlist at amulets.app" -->
 > Amulets is actively being built. Follow along or join the waitlist at [amulets.app](https://amulets.app).
 
 ## About amuletslabs
 
-This is the home of **amuletslabs**, the team building Amulets. We're crafting the platform that powers the account, the card, trading, deposits, rewards, and everything in between — so that using money on-chain feels as natural as any app on your phone.
+This is the home of **amuletslabs**, the team building Amulets. We're crafting the platform that powers the card, the wallet, payments, cryptoback rewards, and everything in between — so that using digital assets feels as natural as any app on your phone.
 
 Interested in what we're building or want to join us? Reach out at **[hello@amulets.app](mailto:hello@amulets.app)**.
 
@@ -73,7 +75,7 @@ Interested in what we're building or want to join us? Reach out at **[hello@amul
 
 <div align="center">
 
-<sub>© Amulets · Crypto in your daily life</sub>
+<sub>© Amulets · Your digital assets. One app.</sub>
 
 <!--
   Legal & regulatory notes go here before this page is treated as an official public statement.
