@@ -12,11 +12,9 @@
 
 **Send, receive and use digital assets while earning cryptoback.**
 
-<!-- TODO: point these at the real destinations before publishing -->
-[Website](https://amulets.app) ·
-[Download the app](https://amulets.app/download) ·
-[Follow us on X](https://x.com/amulets) ·
-[Support](mailto:hello@amulets.app)
+[Website](https://amulets.io) ·
+[Follow us on X](https://x.com/amuletslabs) ·
+[Support](https://t.me/AmuletsSupport_bot)
 
 </div>
 
@@ -60,16 +58,15 @@ Built for people who want a simpler way to manage digital assets, payments and r
 
 ## Availability
 
-Amulets runs on **iOS, Android, Web, and Windows** from a single, shared experience — with your card ready for **Apple Wallet** and **Google Wallet**.
+Amulets is available on **Android, iOS, and Telegram** — with your card ready for **Apple Wallet** and **Google Wallet**.
 
-<!-- TODO: update with the real launch status — e.g. "Now in private beta — join the waitlist at amulets.app" -->
-> Amulets is actively being built. Follow along or join the waitlist at [amulets.app](https://amulets.app).
+> Get started at [amulets.io](https://amulets.io).
 
 ## About amuletslabs
 
 This is the home of **amuletslabs**, the team building Amulets. We're crafting the platform that powers the card, the wallet, payments, cryptoback rewards, and everything in between — so that using digital assets feels as natural as any app on your phone.
 
-Interested in what we're building or want to join us? Reach out at **[hello@amulets.app](mailto:hello@amulets.app)**.
+Interested in what we're building or want to join us? Learn more at **[amulets.io](https://amulets.io)**.
 
 ---
 
